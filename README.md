@@ -9,7 +9,7 @@ Under **Releases** download the latest Installer.
 ## Usage ❓
 1. Install
 2. Select language under options
-3.Type topic in
+3. Enter topic (For example: WW2)
 4. Voilà! You've got yourself some information.
 
 ## Contributing➕
